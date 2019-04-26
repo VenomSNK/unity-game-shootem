@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ee9f4cfb512fddb4aaab4c73ac9afb80
+timeCreated: 1554225847
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MADE Future X HEADER
+  fontNames:
+  - MADE Future X HEADER
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
